@@ -1,0 +1,10 @@
+const x=5;
+const y=6;
+const z=12;
+console.log(x);
+console.log(y);
+console.log(z);
+
+let u=5;
+u=6;
+console.log(u);
