@@ -1,0 +1,13 @@
+//with parameters
+let x = myFunction(4, 3);
+console.log(x);
+function myFunction(a, b) {
+  return a * b;
+}
+//without parameter
+function noParameter()
+{
+    return 5;
+}
+let y=noParameter();
+console.log(y);
