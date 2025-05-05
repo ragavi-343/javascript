@@ -1,0 +1,34 @@
+// Numbers:
+let length = 16;
+let weight = 7.5;
+console.log(length+" "+weight);
+
+// Strings:
+let color = "Yellow";
+console.log(color);
+console.log("\n");
+
+// Booleans
+let x = true;
+let y = false;
+
+// Object:
+const person = {firstName:"John", lastName:"Doe"};
+console.log(person.firstName);
+console.log(person["lastName"]);
+
+// Array object:
+const cars = ["Saab", "Volvo", "BMW"];
+console.log(cars[2]);
+
+// Date object:
+const date = new Date("2022-03-25");
+console.log(date);
+
+//null
+var car=" ";
+console.log(car);
+
+//undefined
+var a;
+console.log(a);
